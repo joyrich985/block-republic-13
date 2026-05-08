@@ -1,0 +1,8 @@
+{
+  "name": "block-republic-13",
+  "version": "1.0.0",
+  "description": "BLOCK REPUBLIC 13 — District XIII",
+  "dependencies": {
+    "fedapay": "^1.4.0"
+  }
+}
